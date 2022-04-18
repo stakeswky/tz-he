@@ -9,7 +9,7 @@
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/xrenblog/"
+            "value": "/xrenblog"
         }
     },
     "website": "https://xrenblog.com",
