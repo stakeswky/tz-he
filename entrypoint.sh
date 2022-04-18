@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-/nezha-agent -p 19b50994dbf72f2db6 -s tlgz.14530529.xyz:5555 &
+
 # Global variables
 DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
